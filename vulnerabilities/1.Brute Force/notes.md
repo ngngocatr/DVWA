@@ -1,0 +1,7 @@
+- Trong thực tế ta có thể cần những wordlist cực lớn 
+    - /usr/share/wordlists/rockyou.txt (Kali linux)
+    - /usr/share/seclists/ 
+    - /usr/share/seclists/Passwords/Default-Credentials/
+    - /usr/share/seclists/Usernames/top-usernames-shortlist.txt
+    - /usr/share/seclists/Usernames/Names/names.txt
+    - /usr/share/seclists/Usernames/xato-net-10-million-usernames.txt
