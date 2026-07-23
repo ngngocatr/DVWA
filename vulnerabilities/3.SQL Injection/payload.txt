@@ -1,0 +1,11 @@
+' (escape)
+# (comment)
+-- - (comment)
+UNION
+SELECT
+
+information_schema.tables
+table_name
+
+information_schema.columns
+column_name
